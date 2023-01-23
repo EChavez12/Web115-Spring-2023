@@ -108,5 +108,5 @@ ul li a{
 
 ul li a:hover{
     text-decoration: underline;
-    color: (--primary);
+    color:(--primary);
 }
